@@ -12,6 +12,6 @@ class Dog
   end 
 end 
 
+fido = Dog.new 
 
-
-kanye.instance_variable_set(:@name, "Yeezy")
+fido.instance_variable_set(:@name, "Lassie")
